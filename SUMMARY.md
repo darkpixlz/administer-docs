@@ -4,5 +4,9 @@
 
 ## ➕ Plugins
 
-* [Plugins: Getting Started](plugins/plugins-getting-started/README.md)
-  * [Plugins: Building and more](plugins/plugins-getting-started/plugins-building-and-more.md)
+* [Plugins: Getting Started](plugins/plugins-getting-started.md)
+* [Plugins: Building and more](plugins/plugins-building-and-more.md)
+
+## Full API reference <a href="#api" id="api"></a>
+
+* [Lua API](api/lua-api.md)
